@@ -1,0 +1,8 @@
+name: PaintBall
+version: '1.0-SNAPSHOT'
+main: me.golds.paintBall.PaintBall
+api-version: '1.20'
+commands:
+  paintball:
+    description: Entre na fila pra joga bobão
+    usage: /<command>
